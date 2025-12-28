@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+}
+
+header {
+  background: #111;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.movie-card {
+  background: #fff;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.review {
+  line-height: 1.6;
+}
+
+.watch-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.watch-btn:hover {
+  background: #0056b3;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 15px;
+}
